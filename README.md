@@ -1,4 +1,3 @@
-# tetyushkina-alyona-qa.github.io
 ## Привет！ 👋
 Меня зовут Алёна, я QA Engineer
 
